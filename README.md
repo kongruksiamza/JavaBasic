@@ -1,4 +1,4 @@
-# โค้ดประกอบเนื้อหา Java สำหรับผู้เริ่มต้น
+# โค้ดและวิดีโอสอน Java สำหรับผู้เริ่มต้น
 
 By KongRuksiam Official
 - [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
