@@ -1,1 +1,0 @@
-System.out.println("ค่าน้อยสุด = "+minNumber);
