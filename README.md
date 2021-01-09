@@ -3,6 +3,7 @@
 By KongRuksiam Official
 - [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
 - [วิดีโอสอนเนื้อหา Java เบื้องต้น](https://www.youtube.com/watch?v=RJZIJdYMsYg&list=PLltVQYLz1BMBDmX6D4L7R4NYshN9ingtY)
+- [เอกสารเนื้อหา Java เบื้องต้น (pdf)](https://drive.google.com/file/d/17kVU7l2icOsdutl8WgfD5IMQj3eDKEje/view?usp=sharing)
 
 ## สารบัญเนื้อหา Phase 1
 
