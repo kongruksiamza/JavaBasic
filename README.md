@@ -102,4 +102,12 @@ By KongRuksiam Official
 
 
 ## สารบัญเนื้อหา Phase 3
-รออัพเดต
+- [รู้จักกับโครงสร้างข้อมูล](https://youtu.be/GK6KZyKdVR0)
+- [รู้จักกับอัลกอริทึม](https://youtu.be/PaBaCtn-Jl8) 
+- [การวัดประสิทธิภาพอัลกอริทึม](https://youtu.be/E-wQaI6ITGI)
+- [อัตราการเติบโตของฟังก์ชั่น](https://youtu.be/Q0pjB4Vcl7M)
+- [รู้จักกับ Big O](https://youtu.be/OK89fj0Iim0)
+- [รูปแบบของ Big O](https://youtu.be/K3ty15rNouM)
+- [การคำนวณ Big O](https://youtu.be/hrf1-aZ4uSA)
+- [การวิเคราะห์ฟังก์ชั่นผ่าน Big O](https://youtu.be/lJa51flY-jA)
+- รออัพเดตเพิ่มเติม
